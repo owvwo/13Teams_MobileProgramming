@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_navigation_tab.xml",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\bottom_navigation_tab.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_list.xml",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_youtubeview.xml",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\activity_youtubeview.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row.xml",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    }
+]

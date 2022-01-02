@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linebox.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\drawable\\linebox.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_library_add_24.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\drawable\\ic_baseline_library_add_24.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_thumb_up_24.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\drawable\\ic_baseline_thumb_up_24.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_youtubeview.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\activity_youtubeview.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_list.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_bottom_navi_search_icon.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\drawable\\selector_bottom_navi_search_icon.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_navigation_tab.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\bottom_navigation_tab.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_searchbox.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\drawable\\searchbox.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_bottom_navi_home_icon.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\drawable\\selector_bottom_navi_home_icon.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\drawable\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_playlist.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\drawable\\playlist.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\font_cafe24_surroundair.ttf.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\font\\cafe24_surroundair.ttf"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_thumb_down_24.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\drawable\\ic_baseline_thumb_down_24.xml"
+    },
+    {
+        "merged": "E:\\mvplayer\\app\\build\\intermediates\\res\\merged\\debug\\font_searchpg_font.xml.flat",
+        "source": "E:\\mvplayer\\app\\src\\main\\res\\font\\searchpg_font.xml"
+    }
+]

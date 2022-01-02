@@ -1,0 +1,16 @@
+com/example/mvplayer/databinding/ActivityYoutubeviewBinding.java
+ com.example.mvplayer.databinding.ActivityYoutubeviewBinding
+com/example/mvplayer/databinding/RowBinding.java
+ com.example.mvplayer.databinding.RowBinding
+com/example/mvplayer/BuildConfig.java
+ com.example.mvplayer.BuildConfig
+com/example/mvplayer/databinding/ActivityMainBinding.java
+ com.example.mvplayer.databinding.ActivityMainBinding
+com/example/mvplayer/databinding/FragmentHomeBinding.java
+ com.example.mvplayer.databinding.FragmentHomeBinding
+com/example/mvplayer/databinding/FragmentListBinding.java
+ com.example.mvplayer.databinding.FragmentListBinding
+com/example/mvplayer/databinding/FragmentSearchBinding.java
+ com.example.mvplayer.databinding.FragmentSearchBinding
+com/example/mvplayer/databinding/BottomNavigationTabBinding.java
+ com.example.mvplayer.databinding.BottomNavigationTabBinding

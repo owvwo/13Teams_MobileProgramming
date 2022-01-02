@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="898fb856-63b1-43ac-9b4e-732702bfdf1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MVplayer" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MVplayer" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MVplayer" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MVplayer" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1t7DOrQnGtG1rQL6noLgq1leYtX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-05-27T10:45:11.737Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.20177665" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mvplayer\app\libs" />
+      <recent name="D:\mvplayer\app\src\main\res\font" />
+    </key>
+    <key name="android.template.-719534493">
+      <recent name="com.example.mvplayer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mvplayer\app\src\main\res\drawable" />
+      <recent name="D:\mvplayer\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MVplayer.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mvplayer:app [androidDependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="androidDependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="mvplayer:app [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.mvplayer:app [signingReport]" />
+        <item itemvalue="Gradle.mvplayer:app [androidDependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="898fb856-63b1-43ac-9b4e-732702bfdf1a" name="Default Changelist" comment="" />
+      <created>1622111204567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622111204567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="269" key="#PSD" timestamp="1622964153637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="213" y="269" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1622964153637" />
+    <state x="1024" y="375" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1622909012353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1024" y="375" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1920.1040@0.0.1920.1040" timestamp="1622909012353" />
+    <state x="1709" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1623415129338">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1709" y="416" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1623415129338" />
+    <state x="1246" y="298" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1623235377946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1246" y="298" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623235377946" />
+    <state x="818" y="409" key="AndroidCreateResourceDirectoryDialog" timestamp="1622878057680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="409" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622878057680" />
+    <state x="276" y="278" key="AndroidCreateResourceFileDialog" timestamp="1623235898836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="276" y="278" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623235898836" />
+    <state x="628" y="548" key="AndroidCreateXmlResourceDialog" timestamp="1623411713482">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="628" y="548" key="AndroidCreateXmlResourceDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1623411713482" />
+    <state x="1054" y="235" key="AndroidProcessChooserDialog" timestamp="1622988424051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1054" y="235" key="AndroidProcessChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622988424051" />
+    <state width="488" height="466" key="DebuggerActiveHint" timestamp="1623244969943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="488" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1623244969943" />
+    <state x="1273" y="323" key="Downloadable.Font.Dialog.Size" timestamp="1622877902040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1273" y="323" key="Downloadable.Font.Dialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1622877902040" />
+    <state x="635" y="335" key="FileChooserDialogImpl" timestamp="1623384558594">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="476" y="249" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623234212706" />
+    <state x="635" y="335" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1623384558594" />
+    <state width="1565" height="297" key="GridCell.Tab.0.bottom" timestamp="1623243381679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1623243381679" />
+    <state width="1565" height="297" key="GridCell.Tab.0.center" timestamp="1623243381679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="297" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1623243381679" />
+    <state width="1565" height="297" key="GridCell.Tab.0.left" timestamp="1623243381679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="297" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1623243381679" />
+    <state width="1565" height="297" key="GridCell.Tab.0.right" timestamp="1623243381679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="297" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1623243381679" />
+    <state width="1565" height="297" key="GridCell.Tab.1.bottom" timestamp="1623243381679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="297" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1623243381679" />
+    <state width="1565" height="297" key="GridCell.Tab.1.center" timestamp="1623243381679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="297" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1623243381679" />
+    <state width="1565" height="297" key="GridCell.Tab.1.left" timestamp="1623243381679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="297" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1623243381679" />
+    <state width="1565" height="297" key="GridCell.Tab.1.right" timestamp="1623243381679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="297" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1623243381679" />
+    <state width="1195" height="509" key="XDebugger.FullValuePopup" timestamp="1623075173163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1195" height="509" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1623075173163" />
+    <state x="425" y="373" key="psd.add.jar.dependency.panel.dimension" timestamp="1622906841530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="425" y="373" key="psd.add.jar.dependency.panel.dimension/0.0.1920.1040@0.0.1920.1040" timestamp="1622906841530" />
+    <state x="374" y="257" key="psd.add.library.dependency.panel.dimension" timestamp="1622964152970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="374" y="257" key="psd.add.library.dependency.panel.dimension/0.0.1920.1040@0.0.1920.1040" timestamp="1622964152970" />
+    <state x="695" y="351" width="672" height="678" key="search.everywhere.popup" timestamp="1623318052340">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="521" y="261" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1622906708652" />
+    <state x="695" y="351" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1623318052340" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MVplayer$mvplayer_app__signingReport_.ic" NAME="mvplayer:app [signingReport] Coverage Results" MODIFIED="1623059267836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
